@@ -1,0 +1,42 @@
+aid: oneio
+name: ONEiO
+description: >-
+  ONEiO is a managed integration service provider delivering IntegrationOps
+  as a Service, providing cloud-based, automation-led integrations for
+  enterprise IT that go live in weeks and evolve automatically.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - iPaaS
+  - IntegrationOps
+  - Managed Integration
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/oneio/refs/heads/main/apis.yml
+created: '2026-03-27'
+modified: '2026-03-27'
+specificationVersion: '0.19'
+apis:
+  - aid: oneio:oneio
+    name: ONEiO
+    description: >-
+      ONEiO is a managed integration service provider delivering IntegrationOps
+      as a Service, providing cloud-based, automation-led integrations for
+      enterprise IT that go live in weeks and evolve automatically.
+    humanURL: https://www.oneio.cloud/
+    tags:
+      - iPaaS
+      - IntegrationOps
+      - Managed Integration
+    properties:
+      - type: Documentation
+        url: https://www.oneio.cloud/learn
+      - type: Getting Started
+        url: https://www.oneio.cloud/learn
+common:
+  - type: Website
+    url: https://www.oneio.cloud/
+  - type: Documentation
+    url: https://www.oneio.cloud/learn
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
