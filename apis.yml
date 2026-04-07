@@ -7,8 +7,8 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - iPaaS
   - IntegrationOps
+  - iPaaS
   - Managed Integration
 url: >-
   https://raw.githubusercontent.com/api-evangelist/oneio/refs/heads/main/apis.yml
@@ -24,8 +24,8 @@ apis:
       enterprise IT that go live in weeks and evolve automatically.
     humanURL: https://www.oneio.cloud/
     tags:
-      - iPaaS
       - IntegrationOps
+      - iPaaS
       - Managed Integration
     properties:
       - type: Documentation
