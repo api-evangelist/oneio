@@ -33,7 +33,7 @@ apis:
     properties:
       - type: Documentation
         url: https://www.oneio.cloud/learn
-      - type: Getting Started
+      - type: GettingStarted
         url: https://www.oneio.cloud/learn
       - type: Support
         url: https://support.oneio.cloud/hc/en-us
