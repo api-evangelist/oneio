@@ -40,6 +40,8 @@ apis:
       - type: Endpoint Tutorials
         url: https://support.oneio.cloud/hc/en-us/sections/360003689432-Endpoint-Tutorials
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/oneioofficial
   - type: Website
     url: https://www.oneio.cloud/
   - type: Documentation
