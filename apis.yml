@@ -5,7 +5,7 @@ description: >-
   as a Service, providing cloud-based, automation-led integrations for
   enterprise IT that go live in weeks and evolve automatically.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - IntegrationOps
   - iPaaS
